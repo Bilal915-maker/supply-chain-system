@@ -1,0 +1,6 @@
+Version : 1.0.0
+Nouvelle entrée :
+  ID : SC-2025-001
+  Date : 2025-10-25
+  Description : Nouvelle tâche pour la gestion des stocks
+
